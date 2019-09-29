@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "dependencies": {
+    "d3-geo-polygon": "^1",
+    "d3-geo": "^1"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9"
+  }
+}
