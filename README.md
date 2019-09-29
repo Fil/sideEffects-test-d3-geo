@@ -1,4 +1,4 @@
-How much do we gain by having sideEffects: true in a simple d3-geo/d3-geo-polygon example?
+How much do we gain by having [sideEffects: true](https://github.com/d3/d3-geo-polygon/pull/32) in a simple d3-geo/d3-geo-polygon example?
 
 run `npx webpack` with various settings:
 
